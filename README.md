@@ -1,0 +1,2 @@
+# boshqarma
+boshqarma web sayti
